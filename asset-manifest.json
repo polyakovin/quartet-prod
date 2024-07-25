@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/quartet-prod/static/css/main.f51d5156.css",
+    "main.js": "/quartet-prod/static/js/main.3ee64609.js",
+    "static/js/27.bf1c4da2.chunk.js": "/quartet-prod/static/js/27.bf1c4da2.chunk.js",
+    "index.html": "/quartet-prod/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.f51d5156.css",
+    "static/js/main.3ee64609.js"
+  ]
+}
