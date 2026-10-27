@@ -1,0 +1,23 @@
+{
+  "version": "0.1.0",
+  "production_url": "https://polyakovin.github.io/quartet-prod/",
+  "source_repository": "https://github.com/polyakovin/quartet",
+  "source_revision": "f853c80f38c26fafd15e809affbb83741520cb09",
+  "source_state": "working-tree",
+  "build_inputs_sha256": "c8e28ea153aabc7dd08a70053e0b6477745495ae382ac6d27e80df7410c0322d",
+  "built_at_utc": "2026-10-27T15:48:26+00:00",
+  "catalog": [
+    "Monkeys Spinning Monkeys",
+    "Ода к радости",
+    "В пещере горного короля",
+    "Sneaky Snitch",
+    "Токката и фуга ре минор, BWV 565",
+    "Хабанера"
+  ],
+  "validation": {
+    "command": "yarn verify",
+    "test_suites": 91,
+    "tests": 771,
+    "production_source_maps": false
+  }
+}
